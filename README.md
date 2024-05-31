@@ -4,8 +4,8 @@
 [![Gihub](https://img.shields.io/badge/Academic%20Account-gmoalemm-brightgreen?logo=github)](https://github.com/gmoalemm)
 
 
-Hello there! 👋🏻<br>
-My name is Guy, but everyone call me **Guychuk**. 📛<br>
-I'm a 22 years-old student currently pursuing a _Bachelor's degree in Computer Science_ at BGU 💻🐪 <br>
+### Hello there! 👋🏻 ###
+My name is Guy, but everyone calls me **Guychuk**. 📛<br>
+I'm a 22-year-old enthusiastic student currently pursuing a _**Bachelor's degree in Computer Science**_ at BGU 💻🐪 <br>
 
-🌟 **My favorite fun fact** is that pigeons 🕊️ successfully learned to discriminate color slides of paintings by Monet and Picasso 🎨 [(#)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1334394)
+🌟 _My favorite fun fact is_ that pigeons 🕊️ successfully learned to discriminate color slides of paintings by Monet and Picasso 🎨 [(#)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1334394)
