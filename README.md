@@ -6,6 +6,6 @@
 
 ### Hello there! 👋🏻 ###
 My name is Guy, but everyone calls me **Guychuk**. 📛<br>
-I'm a 22-year-old enthusiastic student currently pursuing a _**Bachelor's degree in Computer Science**_ at BGU 💻🐪 <br>
+I'm a 23-year-old enthusiastic student currently pursuing a _**Bachelor's degree in Computer Science**_ at BGU 💻🐪 <br>
 
 🌟 _My favorite fun fact is_ that pigeons 🕊️ successfully learned to discriminate color slides of paintings by Monet and Picasso 🎨 [(#)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1334394)
